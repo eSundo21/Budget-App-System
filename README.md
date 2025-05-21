@@ -113,18 +113,3 @@ npm run dev
 2. View spending patterns
 3. Analyze category-wise expenses
 4. Track daily/weekly trends
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- UI Components from [Radix UI](https://www.radix-ui.com/)
-- Styling with [Tailwind CSS](https://tailwindcss.com/)
-- Animations powered by [Framer Motion](https://www.framer.com/motion/) 
