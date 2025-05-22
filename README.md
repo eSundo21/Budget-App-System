@@ -57,14 +57,6 @@ A modern, full-stack budget tracking application built with Next.js and Python F
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone [repository-url]
-cd budget-management-app
-```
-
 2. Install frontend dependencies:
 ```bash
 npm install --legacy-peer-deps
@@ -98,7 +90,6 @@ npm run dev
 1. Navigate to the Settings page
 2. Update your E-Wallet Balance
 3. Set your Daily Budget Limit
-4. Choose your preferred theme (Dark/Light mode)
 
 ### Managing Expenses
 
