@@ -27,13 +27,6 @@ A modern, full-stack budget tracking application built with Next.js and Python F
   - Spending trends
   - Daily/Weekly/Monthly views
 
-- 🎨 **Modern UI/UX**
-  - Clean, responsive design
-  - Dark/Light mode support
-  - Smooth animations
-  - Toast notifications
-  - Intuitive navigation
-
 ## Tech Stack
 
 ### Frontend
@@ -49,41 +42,6 @@ A modern, full-stack budget tracking application built with Next.js and Python F
 - Python Flask
 - SQLite Database
 - Flask-CORS
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v18 or higher)
-- Python 3.8 or higher
-- pip (Python package manager)
-
-2. Install frontend dependencies:
-```bash
-npm install --legacy-peer-deps
-```
-
-3. Install backend dependencies:
-```bash
-cd backend
-pip install -r requirements.txt
-```
-
-### Running the Application
-
-1. Start the backend server:
-```bash
-cd backend
-python app.py
-```
-
-2. In a new terminal, start the frontend development server:
-```bash
-npm run dev
-```
-
-3. Open your browser and navigate to `http://localhost:3000`
-
-## Usage
 
 ### Setting Up Your Budget
 
